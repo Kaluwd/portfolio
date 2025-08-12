@@ -87,8 +87,3 @@ Open [http://localhost:5173](http://localhost:5173/) in your browser to view the
 
 
 
-**Advance your skills with JSM Pro Courses**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
