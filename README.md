@@ -8,7 +8,7 @@
   <h3 align="center">Interactive 3D Portfolio Website</h3>
 
 </div>
-<h2>Dependencies required</h2>
+<h2>Required</h2>
 - Three.js
 - React Three Fiber
 - Drei
