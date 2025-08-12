@@ -85,14 +85,7 @@ npm run dev
 Open [http://localhost:5173](http://localhost:5173/) in your browser to view the project.
 
 
-## <a name="links">🔗 Assets and Snippets</a>
 
-Assets and snippets used in the project can be found in the **[video kit](https://jsm.dev/pfolio25-kit)**.
-
-
-
-
-## <a name="more">🚀 More</a>
 
 **Advance your skills with JSM Pro Courses**
 
